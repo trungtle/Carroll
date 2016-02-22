@@ -1,5 +1,7 @@
 # Carroll
 
+![Carroll Screenshot](https://s3-us-west-2.amazonaws.com/trle/carroll/Screen+Shot+2016-01-24+at+8.53.41+AM.png)
+
 Carroll is an exploratory, escape the room game. Player interacts with potions within the game environment to change their body sizes that would allow them to enter a different perspective to explore the room.
 
 Carrol is the proud winnder of [PennApps XIII](http://devpost.com/software/carroll) for Best Design.
@@ -7,6 +9,7 @@ Carrol is the proud winnder of [PennApps XIII](http://devpost.com/software/carro
 ## Download
 
 [For OSX](https://github.com/trungtle/carroll/tree/master/carroll.app).
+[For Windows](https://github.com/trungtle/carroll/blob/master/caroll.exe)
 
 ## Origin
 
